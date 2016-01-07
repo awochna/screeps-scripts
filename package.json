@@ -1,0 +1,22 @@
+{
+  "name": "screeps-scripts",
+  "version": "1.0.0",
+  "description": "My personal screeps script. You can get some inspiration here if you want.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awochna/screeps-scripts.git"
+  },
+  "author": "Alex Wynter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awochna/screeps-scripts/issues"
+  },
+  "homepage": "https://github.com/awochna/screeps-scripts#readme",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
